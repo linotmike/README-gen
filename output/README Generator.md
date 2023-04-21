@@ -4,8 +4,6 @@
 ## Description
 This is a read-me generator that allows generating a read-me in a very short and easy way. It saves time and helps to focus on other parts of the project when working on a project. It works from the terminal. I used Javascript , node.js and npm to create this application.
     
-## Screenshot
-![screenshot](assets/screenshot.png)
 
 ## Table of Contents
 * [Installation](#installation)
@@ -40,6 +38,6 @@ Email : linotmike.mk@gmail.com
 
 ## Links
 
-Github repo: https://github.com/linotmike/README-gen
+Github repo: 
 
     

@@ -20,7 +20,7 @@ inquirer
     },
     {
       type: "input",
-      message: "How does a user use the application ?",
+      message: "How to use the application ?",
       name: "usage",
     },
     {
@@ -50,6 +50,7 @@ inquirer
       message: "what is the best email to reach you at ?",
       name: "email",
     },
+    
   ])
   .then((ans) => {
     console.log(ans);
@@ -96,6 +97,8 @@ Github : https://github.com/${ans.github}\n
 Email : ${ans.email}
 
 ## Links
+
+Github repo : https://github.com/linotmike/README-gen 
 
     
 `;
